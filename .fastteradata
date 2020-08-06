@@ -1,0 +1,4 @@
+{
+"auth_dict" : {"__env1__" : ["__test__","__test__"]},
+"env_dict" : {"__env__":["__local__","__development__","__dev__"]}
+}
